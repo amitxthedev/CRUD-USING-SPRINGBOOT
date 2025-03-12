@@ -42,5 +42,5 @@ Before running the project, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/user-management-system.git
-cd user-management-system
+https://github.com/amitxthedev/CRUD-USING-SPRINGBOOT.git
+cd CRUD-USING-SPRINGBOOT
